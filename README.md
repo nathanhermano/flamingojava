@@ -1,2 +1,2 @@
 # flamingojava
-Diretório para atividades do curso ADS Flamingo
+Códigos desenvolvidos em aula na faculdade flamingo 2º semestre 2022
